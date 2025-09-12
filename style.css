@@ -1,6 +1,24 @@
 body{
     background-color: rgb(180, 136, 221);
+     font-family:Bai Janjuree;
 }
+
+    #container{
+display: flex;
+    }
+
+
+
+    .cartao{
+        margin: 1rem 1rem;
+    }
+
+
+
+
+
+
+
 
 footer{
 background-color: rgb(163, 92, 255) ;
